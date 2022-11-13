@@ -1,4 +1,4 @@
-# Hello devs, my name is Nicolas and be developer web!
+# Hello devs, my name is Nicolas and develop for the web!
 
 ### Profile
   <img src="https://github-readme-stats.vercel.app/api?username=nicolasgabriiel&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" height=200em />
