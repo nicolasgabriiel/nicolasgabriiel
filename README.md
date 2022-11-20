@@ -8,4 +8,4 @@
 
 
 ### Contact me!
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRrhSRJFLsfRPDvDZLkrpKfnFmfKKMwQbLtVsVBXKksmDshTPDZlFZDPGCCtLmccgfpZtB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/nicolas-gabriel-a06a74241/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRrhSRJFLsfRPDvDZLkrpKfnFmfKKMwQbLtVsVBXKksmDshTPDZlFZDPGCCtLmccgfpZtB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/nicolasgabriiel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
