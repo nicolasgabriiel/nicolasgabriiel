@@ -1,6 +1,6 @@
 <h1 style="color:green" align="center" >Hello devs, my name is Nicolas and develop for the web!</h1>
 
-  <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=nicolasgabriiel&theme=github-dark&locale=en_US" height=200em /></div>
+  <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=nicolasgabriiel&theme=github-dark" height=200em /></div>
 
 
 
