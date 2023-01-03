@@ -1,4 +1,8 @@
-<h1 style="color:green" align="center" >Meu nome é Nicolas e eu sou Desenvolvedor Front End
+<h1 style="color:green" align="center" >Meu nome é Nicolas e eu sou Desenvolvedor Front End</h1>
+  
+  
+  
+  
 
   <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=nicolasgabriiel&theme=github-dark" height=160em /><img height="160em"  margin-left="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgabriiel&layout=compact&langs_count=7&theme=blue-green"/></div>
 
