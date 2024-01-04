@@ -1,4 +1,4 @@
-<h1 style="color:green" align="center" > Nicolas Gabirel - Desenvolvedor Front End</h1>
+<h1 style="color:green" align="center" > Nícolas Gabriel - Desenvolvedor Front End</h1>
   
   
   
