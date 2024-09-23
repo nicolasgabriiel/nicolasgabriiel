@@ -5,45 +5,48 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgabriiel&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
-# Tecnologias
+## **Tecnologias:**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/java-41B883?logo=java&style=for-the-badge&logoColor=F2F2F2"/>
+  <img src="https://img.shields.io/badge/spring-273849?logo=spring&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/react-41B883?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
+  <img src="https://img.shields.io/badge/vue-273849?logo=vue.js&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/html5-41B883?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/css3-273849?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/javascript-41B883?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/jquery-273849?logo=jquery&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/typescript-41B883?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/sass-273849?logo=sass&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/less-41B883?logo=less&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/tailwindcss-273849?logo=tailwindcss&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/bootstrap-41B883?logo=bootstrap&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/gulp-273849?logo=gulp&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/grunt-41B883?logo=grunt&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/docker-273849?logo=docker&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/mongodb-41B883?logo=mongodb&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/mysql-273849?logo=mysql&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/postgresql-41B883?logo=postgresql&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/git-273849?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github-41B883?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/npm-273849?logo=npm&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/junit-41B883?logo=junit&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/jest-273849?logo=jest&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/cypress-273849?logo=cypress&style=for-the-badge&logoColor=F2F2F2"/>
+</p>
 
 
-<h3 style="text-align: center;">Linguagens</h3>
-<div style="display: flex; justify-content: center;">
-<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+## **Projetos Recentes:**
+
+<div style="display: flex;">
+  <a href="https://github.com/nicolasgabriiel/AI-Consultation-Service"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasgabriiel&repo=ai-consultation-service&title_color=41B883&text_color=F2F2F2&bg_color=273849&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+  <a href="https://github.com/nicolasgabriiel/posting-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasgabriiel&repo=posting-system&title_color=41B883&text_color=F2F2F2&bg_color=273849&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+  <a href="https://github.com/nicolasgabriiel/ordering-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasgabriiel&repo=ordering-system&title_color=41B883&text_color=F2F2F2&bg_color=273849&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+  <a href="https://github.com/nicolasgabriiel/Efood"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasgabriiel&repo=efood&title_color=41B883&text_color=F2F2F2&bg_color=273849&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+  <a href="https://github.com/nicolasgabriiel/chess-system-java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasgabriiel&repo=chess-system-java&title_color=41B883&text_color=F2F2F2&bg_color=273849&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+ 
 </div>
-<h3 style="text-align: center;">Frameworks e Bibliotecas</h3>
-<div style="display: flex; justify-content: center;">
-<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
-</div>
-<h3 style="text-align: center;">Banco de Dados</h3>
-<div style="display: flex; justify-content: center;">
-<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-</div>
-<h3 style="text-align: center;">Testes</h3>
-<div style="display: flex; justify-content: center;">
-<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
-<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
-<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
-</div>
-<h3 style="text-align: center;">Frameworks CSS</h3>
-<div style="display: flex; justify-content: center;">
-<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" />
-<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-</div>
-<h3 style="text-align: center;">Outros</h3>
-<div style="display: flex; justify-content: center;">
-<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</div>
+
+
+
+
